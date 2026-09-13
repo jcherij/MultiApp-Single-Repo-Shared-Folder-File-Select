@@ -1,0 +1,3 @@
+Notes from the March 2026 on-call rotation postmortem review.
+Not related to carepulse or chartvault — kept here because nobody's cleaned
+out this folder yet. Ignore for infra purposes.
